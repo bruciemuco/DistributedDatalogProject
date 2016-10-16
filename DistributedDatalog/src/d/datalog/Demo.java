@@ -18,8 +18,6 @@ public class Demo {
 		c = engine.deterministicGoal("p(1,X)", RVars);
 		System.out.println(c[0]);
 		SolutionIterator e = engine.goal("p(1,X)", RVars);
-		e.
-		
 		
 		
 		engine.shutdown();
